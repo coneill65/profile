@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">profile</string>
+    <string name="txtName">Colin</string>
+    <string name="txtBtnProfile">View Profile</string>
+    <string name="txtProfileInfo">My name is colin. <br/> I like to code. <br/> My favorite language is python.<br/>I really enjoy making discord bots<br/></string>
+    <string name="person_avatar">person avatar</string>
+    <string name="img_me">picture of me</string>// \n didn't work for me.
+</resources>
